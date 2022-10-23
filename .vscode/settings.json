@@ -1,0 +1,15 @@
+{
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.exclude": {
+    "**/coverage": true,
+    "**/results": true,
+  },
+  "files.watcherExclude": {
+    "**/coverage": true,
+    "**/results": true
+  },
+  "files.trimFinalNewlines": true,
+}
